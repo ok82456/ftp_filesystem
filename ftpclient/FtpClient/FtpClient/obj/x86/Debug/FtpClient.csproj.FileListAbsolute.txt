@@ -1,0 +1,10 @@
+G:\ftpclient\FtpClient\FtpClient\obj\x86\Debug\FtpClient.Properties.Resources.resources
+G:\ftpclient\FtpClient\FtpClient\obj\x86\Debug\FtpClient.csproj.GenerateResource.Cache
+G:\ftpclient\FtpClient\FtpClient\bin\Debug\FtpClient.exe
+G:\ftpclient\FtpClient\FtpClient\bin\Debug\FtpClient.pdb
+G:\ftpclient\FtpClient\FtpClient\obj\x86\Debug\FtpClient.exe
+G:\ftpclient\FtpClient\FtpClient\obj\x86\Debug\FtpClient.pdb
+G:\ftpclient\FtpClient\FtpClient\bin\Debug\FtpClient.exe.config
+G:\ftpclient\FtpClient\FtpClient\obj\x86\Debug\FtpClient.csprojResolveAssemblyReference.cache
+G:\ftpclient\FtpClient\FtpClient\obj\x86\Debug\FtpClient.Form1.resources
+G:\ftpclient\FtpClient\FtpClient\obj\x86\Debug\FtpClient.Form2.resources
